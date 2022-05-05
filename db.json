@@ -1,9 +1,80 @@
 {
   "users": [
     {
-      "id": 1,
-      "email": "clebinho@a.com"
+      "email": "teste@teste.com",
+      "id": 2
+    },
+    {
+      "email": "teste@teste.com",
+      "id": 3
     }
   ],
-  "posts": []
+  "products": [
+    {
+      "id": 1,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 2,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 3,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 4,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 5,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 6,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 7,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 8,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 9,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 10,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    },
+    {
+      "id": 11,
+      "name": "Sapo culto",
+      "price": 100,
+      "url_image": "https://pbs.twimg.com/media/FBSuBfUXoAMcs76.png"
+    }
+  ]
 }
